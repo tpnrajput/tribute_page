@@ -1,0 +1,46 @@
+body {
+    background-color: #00FA9A;
+}
+
+.title {
+    color: darkblue;
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+}
+
+.title-APJ {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 5px 5px 10px darkblue;
+}
+
+img {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}
+
+div.tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px 25px;
+    margin: 11px;
+    margin-top: 39px;
+    width: 1107px;
+    height: 650px;
+    display: block;
+    margin: auto;
+    color: bisque;
+}
+
+.text-group {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+p {
+    color: white;
+}
